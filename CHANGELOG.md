@@ -1,8 +1,9 @@
 # CHANGELOG
 
-## [4.0.1] - 2025-12-18
+## [4.1.0] - 2025-12-18
 ### Changed
 - Update grpcio-tools requirements
+- Remove deprecated multiprocessing server implementation and CLI options
 
 ## [4.0.0] - 2025-08-28
 ### Changed
