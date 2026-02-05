@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## [4.0.1] - 2026-02-05
+### Added
+- 在应用初始化时自动从环境变量加载配置，环境变量会覆盖配置文件中的同名配置项
+
 ## [4.0.0] - 2025-08-28
 ### Changed
 - Update protobuf requirement
