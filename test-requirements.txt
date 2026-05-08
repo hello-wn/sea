@@ -3,7 +3,7 @@ peeweext
 cachext
 redis
 celery
-pytest>7.0.0
+pytest>=8.4.2
 pytest-cov>=4.0.0
 flake8
 coveralls
